@@ -1,0 +1,7 @@
+// Only change code below this line
+var myName = "Susucola";
+var myStr = "My name is" + myName + " and I am well!";
+
+/*Constricting Strings with Variables 
+Sometimes you will need to build a string, Mad libs style. By using the concatenation operator, you can insert one or more variables into a string you're building.
+*/

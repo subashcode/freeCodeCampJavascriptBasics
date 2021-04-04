@@ -1,0 +1,3 @@
+// Only change code below this line
+var myArray = [[ "Hello", 20 ],[  "Full - ", 20]];
+console.log(myArray);
